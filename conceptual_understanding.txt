@@ -1,0 +1,27 @@
+Customer - X
+Campaign coupon_received purchase
+A 1 1
+B 0 0
+C 0 1
+D 1 0
+E ---> TARGETTING
+
+X -> creating features from above data(summarising to single line)
+coupon_receive_percentage coupon_utilised_percentage
+0.5(2/4)                        0.5(1/2)
+
+T-LEARNER MODEL:
+
+2 different models are built.
+
+MODEL-1: training model with random treatment
+
+MODEL-2: training model with random control	
+
+Then passing customer_attributes for MODEL-1 & MODEL-2 
+MODEL-1 -> x
+MODEL-2 -> y
+uplift_score = |x-y|
+
+
+
