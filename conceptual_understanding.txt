@@ -23,5 +23,14 @@ MODEL-1 -> x
 MODEL-2 -> y
 uplift_score = |x-y|
 
+OTHER MODELS:
+S-LEARNER
+T-LEARNER
+X-LEARNER
+R-LEARNERA
+
+-------------------------------------------------------------------------------------
+
+casualml, econml, scikit-uplift
 
 
