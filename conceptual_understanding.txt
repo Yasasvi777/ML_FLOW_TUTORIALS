@@ -30,6 +30,10 @@ X-LEARNER
 R-LEARNERA
 
 -------------------------------------------------------------------------------------
+HISTGRADBOOST_MODEL
+gradients and Hessians
+LOG_LOSS -> OBJEVTIVE FUNCTION UNDERSTANDING
+
 
 casualml, econml, scikit-uplift
 
